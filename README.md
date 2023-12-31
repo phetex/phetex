@@ -1,7 +1,8 @@
+    
+    PYTHON![image](https://github.com/phetex/phetex/assets/95753841/f9fadd0d-75c5-4166-8127-8e57272ef304)
 
-    C++
-    PYTHON
-    HTML
+   HTML![image](https://github.com/phetex/phetex/assets/95753841/95dc17d6-ac02-4761-a2c0-b986ae85dab0)
+  
     GIT BASH
     GITHUB CONNECT
     VSCODE
