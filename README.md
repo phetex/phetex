@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Phetex**!
+# 👋 Hello, I'm **Phetex**
 
 ---
 
